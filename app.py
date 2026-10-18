@@ -5,8 +5,8 @@ import os
 
 app = Flask(__name__)
 
-TOKEN = os.environ.get('ZALO_BOT_TOKEN', '1204399415529659694')
-SECRET = '123456789' 
+TOKEN = '1204399415529659694:iKOQmpuovkLzNtptCOnGOmZzvpxmsLSZRJCtYpcjbCzBvQXHHOMeOAITrRhZzkT'
+SECRET = '12345678'
 
 bot = Bot(token=TOKEN)
 

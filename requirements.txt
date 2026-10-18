@@ -1,0 +1,3 @@
+python-zalo-bot
+Flask
+gunicorn
